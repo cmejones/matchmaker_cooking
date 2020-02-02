@@ -15,8 +15,8 @@ This project used one API called Nutrition, Recipe, and Food API from Spoonacula
 https://sharp-jang-bc8ca9.netlify.com/
 
 ## Contributors
-https://github/leah-h
+https://github.com/leah-h
 
-https://github/cmejones
+https://github.com/cmejones
 
-https://github/ngcataldo
+https://github.com/ngcataldo
